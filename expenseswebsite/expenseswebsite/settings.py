@@ -87,10 +87,6 @@ DATABASES = {
         'USER': os.getenv('DB_USER'),
         'PASSWORD': os.getenv('DB_USER_PASSWORD'),
         'HOST': os.getenv('DB_HOST'),
-        # 'NAME': os.environ.get('DB_NAME'),
-        # 'USER': os.environ.get('DB_USER'),
-        # 'PASSWORD': os.environ.get('DB_USER_PASSWORD'),
-        # 'HOST': os.environ.get('DB_HOST'),
     }
 }
 
