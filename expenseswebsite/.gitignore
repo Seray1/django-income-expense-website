@@ -29,7 +29,7 @@ Icon?
 .git/
 .svn/
 .hg/
-requirements.txt
+# requirements.txt
 Pipfile.lock
 yarn.lock
 package-lock.json
